@@ -1,5 +1,5 @@
 # SpecialCourse
-Program design and algorithm from Peking University
+Program design and algorithm by Peking University
 [【WIKI】](https://github.com/liuyongjiesail/SpecialCourse/wiki)
 
 - 计算导论与C语言基础
